@@ -1,5 +1,5 @@
 # Simulation-of-Linker-and-Loader-in-Python
-This is simple simulation of linker and loader in python for which I have taken .C file as an input.
+This is simple simulation of linker and loader in Python for which I have taken .c file as an input.
 
 ## Algorithm for Linker
 
