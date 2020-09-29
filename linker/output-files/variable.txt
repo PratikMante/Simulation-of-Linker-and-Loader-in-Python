@@ -1,0 +1,16 @@
+Local :
+Sym Size Address
+ a    4     1004
+ x    4     1008
+ i    4     1012
+ j    4     1016
+ b    4     1020
+ k    4     1024
+ c    4     1028
+Extern :
+Sym Size Address
+ i    4     2004
+ j    4     2008
+ l    4     2012
+ p    1     2013
+ q    1     2014
